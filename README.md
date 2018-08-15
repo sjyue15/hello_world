@@ -1,2 +1,7 @@
 # hello_world
 a new repository
+这是一个阅读了hello_world指导中建立brangches部分以后的练习
+他说我编辑完这段文之后就与master的分支不一样了
+我也很期待
+应该会不一样的
+写完了
